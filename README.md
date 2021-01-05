@@ -1,6 +1,4 @@
 # Ionic: Autenticação e Autorização
-
-Moodle on Alpine Linux with Docker
 ==============================================
 
 Usage
